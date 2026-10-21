@@ -11,6 +11,7 @@
 .svn/
 .swiftpm/
 migrate_working_dir/
+THINAI_PR_REVIEW_WORKFLOW.md
 
 # Secrets and environment files
 .env
